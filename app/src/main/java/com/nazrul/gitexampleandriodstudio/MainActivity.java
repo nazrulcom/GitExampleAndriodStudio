@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btClick1 = (Button) findViewById(R.id.btClick);
         btClick2 = (Button) findViewById(R.id.btClick2);
 
-        btClick1.setOnClickListener(this);
+//        btClick1.setOnClickListener(this);
         btClick2.setOnClickListener(this);
     }
 
